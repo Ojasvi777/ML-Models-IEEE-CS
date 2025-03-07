@@ -31,20 +31,20 @@ This repository contains four levels of machine learning experiments focusing on
 1. Clone the repository:
    ```bash
    git clone https://github.com/your_username/repository_name.git
+
 Install dependencies:
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
+
 Run individual scripts:
-bash
-Copy
-Edit
+
 python level_0_shape_analysis.py
 python level_1_eda.py
 python level_2_logistic_regression.py
 python level_3_neural_network.py
+
 📈 Implementation Details
+
 The dataset was preprocessed and standardized.
 Logistic Regression faced convergence issues due to high dimensionality.
 Deep Learning model trained with dropout and batch normalization.
