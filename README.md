@@ -45,6 +45,4 @@ python level_3_neural_network.py
 
 📈 Implementation Details
 
-The dataset was preprocessed and standardized.
-Logistic Regression faced convergence issues due to high dimensionality.
-Deep Learning model trained with dropout and batch normalization.
+The dataset was preprocessed and standardized|Logistic Regression faced convergence issues due to high dimensionality|Deep Learning model trained with dropout and batch normalization.
